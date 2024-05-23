@@ -20,6 +20,8 @@
 | 12  |[div全屏显示](https://github.com/realwds/super-single-page/blob/gh-pages/pages/div全屏显示.html)|[Live Demo](https://realwds.github.io/super-single-page/pages/div全屏显示.html)|
 | 13  |[阿里云盘公告页](https://github.com/realwds/super-single-page/blob/gh-pages/pages/阿里云盘公告页.html)|[Live Demo](https://realwds.github.io/super-single-page/pages/阿里云盘公告页.html)|
 | 14  |[新浪每日搞笑动图](https://github.com/realwds/super-single-page/blob/gh-pages/pages/新浪每日搞笑动图.html)|[Live Demo](https://realwds.github.io/super-single-page/pages/新浪每日搞笑动图.html)|
+| 15  |[照片墙特效](https://github.com/realwds/super-single-page/blob/gh-pages/pages/照片墙特效.html)|[Live Demo](https://realwds.github.io/super-single-page/pages/照片墙特效.html)|
+| 16  |[抽奖小游戏](https://github.com/realwds/super-single-page/blob/gh-pages/pages/抽奖小游戏.html)|[Live Demo](https://realwds.github.io/super-single-page/pages/抽奖小游戏.html)|
 
 ## packages
 
