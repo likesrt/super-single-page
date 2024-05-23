@@ -31,5 +31,4 @@
 | 04  |[幻灯片播放插件](https://github.com/realwds/super-single-page/blob/gh-pages/packages/幻灯片播放插件)|[Live Demo](https://realwds.github.io/super-single-page/packages/幻灯片播放插件)|
 | 05  |[轮播图变大](https://github.com/realwds/super-single-page/blob/gh-pages/packages/轮播图变大)|[Live Demo](https://realwds.github.io/super-single-page/packages/轮播图变大)|
 | 06 |[搜索单页面](https://github.com/realwds/super-single-page/blob/gh-pages/packages/搜索单页面)|[Live Demo](https://realwds.github.io/super-single-page/packages/搜索单页面)|
-| 07  |[网页自由字体跳动](https://github.com/realwds/super-single-page/blob/gh-pages/packages/网页自由字体跳动)|[Live Demo](https://realwds.github.io/super-single-page/packages/网页自由字体跳动)|
-| 08  |[svg跳舞花朵](https://github.com/realwds/super-single-page/blob/gh-pages/packages/svg跳舞花朵)|[Live Demo](https://realwds.github.io/super-single-page/packages/svg跳舞花朵)|
+| 07  |[svg跳舞花朵](https://github.com/realwds/super-single-page/blob/gh-pages/packages/svg跳舞花朵)|[Live Demo](https://realwds.github.io/super-single-page/packages/svg跳舞花朵)|
