@@ -40,3 +40,7 @@
 | 11  |[粒子掉落时钟](https://github.com/realwds/super-single-page/blob/gh-pages/packages/粒子掉落时钟)|[Live Demo](https://realwds.github.io/super-single-page/packages/粒子掉落时钟)|
 | 12  |[粒子效果背景](https://github.com/realwds/super-single-page/blob/gh-pages/packages/粒子效果背景)|[Live Demo](https://realwds.github.io/super-single-page/packages/粒子效果背景)|
 | 13  |[页面过渡效果合集](https://github.com/realwds/super-single-page/blob/gh-pages/packages/页面过渡效果合集)|[Live Demo](https://realwds.github.io/super-single-page/packages/页面过渡效果合集)|
+
+## Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=realwds/super-single-page&type=Date)
