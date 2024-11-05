@@ -22,6 +22,7 @@
 | 14  |[新浪每日搞笑动图](https://github.com/realwds/super-single-page/blob/gh-pages/pages/新浪每日搞笑动图.html)|[Live Demo](https://realwds.github.io/super-single-page/pages/新浪每日搞笑动图.html)|
 | 15  |[照片墙特效](https://github.com/realwds/super-single-page/blob/gh-pages/pages/照片墙特效.html)|[Live Demo](https://realwds.github.io/super-single-page/pages/照片墙特效.html)|
 | 16  |[抽奖小游戏](https://github.com/realwds/super-single-page/blob/gh-pages/pages/抽奖小游戏.html)|[Live Demo](https://realwds.github.io/super-single-page/pages/抽奖小游戏.html)|
+| 17  |[个人主页导航](https://github.com/realwds/super-single-page/blob/gh-pages/pages/个人主页导航.html)|[Live Demo](https://realwds.github.io/super-single-page/pages/个人主页导航.html)|
 
 ## packages
 
